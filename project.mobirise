@@ -38,7 +38,7 @@
     "google-analytics": "",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
-    "uniqCompNum": 134,
+    "uniqCompNum": 135,
     "versionPublish": "4.8.10",
     "screenshot": "screenshot.png"
   },
@@ -128,7 +128,7 @@
             "fontHoverColor": "#fff",
             "fontActiveColor": "#222"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"product.html#slider5-10\">Product</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-3n\">Pricing</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-3j\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#title4-2c\">Faq</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#title4-2c\">BLog</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"product.html#slider5-10\">Product</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-3n\">Pricing</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-3j\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#title4-2c\">Faq</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html#feed-3q\">BLog</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1485,7 +1485,7 @@
             "fontHoverColor": "#fff",
             "fontActiveColor": "#222"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"product.html#slider5-10\">Product</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-3n\">Pricing</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-3j\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#title4-2c\">Faq</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#title4-2c\">BLog</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"product.html#slider5-10\">Product</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-3n\">Pricing</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-3j\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#title4-2c\">Faq</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html#feed-3q\">BLog</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1791,7 +1791,7 @@
             "fontHoverColor": "#fff",
             "fontActiveColor": "#222"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"product.html#slider5-10\">Product</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-3n\">Pricing</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-3j\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#title4-2c\">Faq</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#title4-2c\">BLog</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"product.html#slider5-10\">Product</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-3n\">Pricing</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-3j\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#title4-2c\">Faq</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html#feed-3q\">BLog</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2186,7 +2186,7 @@
             "fontHoverColor": "#fff",
             "fontActiveColor": "#222"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"product.html#slider5-10\">Product</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-3n\">Pricing</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-3j\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#title4-2c\">Faq</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#title4-2c\">BLog</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"product.html#slider5-10\">Product</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-3n\">Pricing</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-3j\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#title4-2c\">Faq</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html#feed-3q\">BLog</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2589,7 +2589,7 @@
             "fontHoverColor": "#fff",
             "fontActiveColor": "#222"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"product.html#slider5-10\">Product</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-3n\">Pricing</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-3j\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#title4-2c\">Faq</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#title4-2c\">BLog</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"product.html#slider5-10\">Product</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-3n\">Pricing</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-3j\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#title4-2c\">Faq</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html#feed-3q\">BLog</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3227,7 +3227,7 @@
             "fontHoverColor": "#fff",
             "fontActiveColor": "#222"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"product.html#slider5-10\">Product</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-3n\">Pricing</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-3j\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#title4-2c\">Faq</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#title4-2c\">BLog</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"product.html#slider5-10\">Product</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-3n\">Pricing</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-3j\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#title4-2c\">Faq</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html#feed-3q\">BLog</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3662,7 +3662,7 @@
             "fontHoverColor": "#fff",
             "fontActiveColor": "#222"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"product.html#slider5-10\">Product</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-3n\">Pricing</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-3j\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#title4-2c\">Faq</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#title4-2c\">BLog</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"product.html#slider5-10\">Product</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-3n\">Pricing</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-3j\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#title4-2c\">Faq</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html#feed-3q\">BLog</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3764,9 +3764,9 @@
         }
       ]
     },
-    "page7.html": {
+    "blog.html": {
       "settings": {
-        "title": "Main",
+        "title": "Blog",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -3774,266 +3774,6 @@
         "order": 3
       },
       "components": [
-        {
-          "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "4",
-            "showTitle": true,
-            "showSubtitle": true,
-            "showButtons": true,
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1309.jpg",
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#204187",
-            "overlayOpacity": 0.35
-          },
-          "media": {
-            "image": {
-              "class": "mbr-figure__img",
-              "src": "@THEME_PATH@/components/_images/info.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/watch?v=CluVGS25Kb0",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "<span style=\"font-weight: normal;\"><i>Kryptoprime</i></span>",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis id eligendi assumenda, cumque optio veniam eos perferendis molestias explicabo odit. Libero, suscipit. Quae praesentium, tempore minima quod tempora odio cumque nam mollitia dolores possimus porro omnis aliquid deserunt magnam non voluptates? Beatae quod illum ullam unde, quae, distinctio architecto modi.",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a>",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-3d"
-        },
-        {
-          "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "0",
-            "showTitle": true,
-            "showSubtitle": false,
-            "showButtons": false,
-            "showMedia": true,
-            "imageSize": "50",
-            "inverse": true,
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#204187",
-            "overlayOpacity": "0.5"
-          },
-          "media": {
-            "image": {
-              "class": "mbr-figure__img",
-              "src": "@PROJECT_PATH@/assets/images/purple-3158x1919.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=axMabrSDrI8",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "Stunning<br><i style=\"font-size: 100px; background-color: inherit;\"><span style=\"font-weight: normal;\">All-in-One</span></i><i style=\"font-size: 100px; background-color: inherit;\"><span style=\"font-weight: normal;\"><br></span></i>Platform",
-          "text": "Full-width intro with parallax background and media on the right side. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum, totam sit! Ut perspiciatis sint minima, a, consequatur maxime minus neque voluptatem laborum distinctio amet. Ea deleniti sed, commodi aperiam! Harum excepturi ipsa temporibus sit, natus illum expedita officiis doloribus a aspernatur",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a>",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_styles": {
-            "DIV": {
-              "font-size": "100px"
-            },
-            "H1": {
-              "font-size": "72px"
-            }
-          },
-          "_anchor": "header3-30"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 0,
-            "showTitle": true,
-            "showSeparator": true,
-            "showSubtitle": false,
-            "showText": false,
-            "showButtons": false,
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.75
-          },
-          "title": "<em>Kryptoprime</em>&nbsp;Components",
-          "subtitle": "Subtitle",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quis quidem laboriosam, enim rem nobis ab laudantium. Aliquam, ipsum, impedit accusantium ex cum facilis ut tempora vero nesciunt mollitia ullam, quisquam quia cupiditate esse repudiandae. Vero nisi velit sint minima et adipisci culpa iusto ea obcaecati! Voluptatibus consectetur nulla, asperiores.",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-black\" role=\"button\">learn more</a>",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "title4",
-          "_anchor": "title4-31"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "showTitle": true,
-            "showImages": true,
-            "columns": "3",
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.75
-          },
-          "media": {
-            "image": {
-              "class": "mbr-figure__img",
-              "width": 320,
-              "src": "@THEME_PATH@/components/_images/about.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/watch?v=CluVGS25Kb0",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "medal-3",
-              "family": "icon54",
-              "active": true,
-              "link": "",
-              "size": 0
-            }
-          },
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "dodekaeder-3",
-              "family": "icon54-v2",
-              "active": true,
-              "link": "",
-              "size": 0
-            }
-          },
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "detailes-pane",
-              "family": "icon54-v2",
-              "active": true,
-              "link": "",
-              "size": 0
-            }
-          },
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "trophy",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "lightbulb",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "presentation",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "title": "<em>Our</em> Design",
-          "subtitle": "Subtitle",
-          "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit quisque elementum volutpat massa ac interdum velit imperdiet vel lacinia massa viverra dolor quis congue pellentesque.",
-          "title1": "Millitary gred encryption",
-          "title2": "Blockchain based identity<br>&amp; Authentication",
-          "title3": "all-in-one interface",
-          "title4": "creative compaings",
-          "title5": "innovation ideas",
-          "title6": "business analysis",
-          "text1": "Secure all your emails and files using military grade 256-bit encryption add on with your digital signature.<br>",
-          "text2": "Irrefutable identity verification using digital signatures based on public key cryptography.<br>",
-          "text3": "All-in-One interface to handle all encryption processes across cloud emails &amp; storage providers. Connect all of your cloud accounts i.e Google, Dropbox, Microsoft and other providers in one platform.<br>",
-          "text4": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut, cupiditate, debitis! Laborum maiores autem totam aliquid nemo beatae possimus rem?",
-          "text5": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus saepe illum, ipsa voluptas animi laborum? Veniam delectus totam, voluptatem maxime!",
-          "text6": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores similique itaque possimus hic. Saepe et deleniti fugit qui, odit tenetur?",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_styles": {
-            "H4": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "content2-32"
-        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -4109,7 +3849,7 @@
             "fontHoverColor": "#fff",
             "fontActiveColor": "#222"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"product.html#slider5-10\">Product</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-3n\">Pricing</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-3j\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#title4-2c\">Faq</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#title4-2c\">BLog</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"product.html#slider5-10\">Product</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-3n\">Pricing</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-3j\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#title4-2c\">Faq</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html#feed-3q\">BLog</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -4130,281 +3870,6 @@
           ],
           "_name": "menu2",
           "_anchor": "menu2-33"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 2,
-            "showTitle": true,
-            "showImages": true,
-            "columns": 6,
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.75
-          },
-          "media": {
-            "image": {
-              "class": "mbr-figure__img",
-              "width": 320,
-              "src": "@THEME_PATH@/components/_images/about.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/watch?v=CluVGS25Kb0",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "user-fingerprint",
-              "family": "icon54-v2",
-              "active": true,
-              "link": "",
-              "size": 0
-            }
-          },
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "key-tag-settings",
-              "family": "icon54-v3",
-              "active": true,
-              "link": "",
-              "size": 0
-            }
-          },
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "strategy",
-              "family": "et-line",
-              "active": true,
-              "link": "",
-              "size": 0
-            }
-          },
-          "media4": {
-            "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "global-box",
-              "family": "icon54-v3",
-              "active": true,
-              "link": "",
-              "size": 0
-            }
-          },
-          "media5": {
-            "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "check-file",
-              "family": "icon54",
-              "active": true,
-              "link": "",
-              "size": 0
-            }
-          },
-          "media6": {
-            "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "mixer-1",
-              "family": "icon54",
-              "active": true,
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "<em>Our</em> Design",
-          "subtitle": "Subtitle",
-          "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit quisque elementum volutpat massa ac interdum velit imperdiet vel lacinia massa viverra dolor quis congue pellentesque.",
-          "title1": "Digital signature",
-          "title2": "Keys &amp; Certs Management",
-          "title3": "Easy to use",
-          "title4": "Transformation of<br>Digital Assets",
-          "title5": "Audit &amp; Compliance",
-          "title6": "Complete control",
-          "text1": "Assign your digital signature to all your in and outbound communication. Ensure it all verified by you.<br>",
-          "text2": "Take charge of all your security keys and certificates. Even Kryptoprime inaccessible to your keys.<br>",
-          "text3": "There are no need to have special training to get familiar with the platform.",
-          "text4": "Secure integration to convert data or information from one format to another and transfer though Email or Storage.<br>",
-          "text5": "Privacy protection and helps to get General Data Protection Regulation (GDPR) compliance.<br>",
-          "text6": "Have full control on your accounts. No restriction on your account abilities.<br>",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_styles": {
-            "H4": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "content2-34"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 2,
-            "showTitle": false,
-            "showSeparator": false,
-            "showSubtitle": false,
-            "showText": false,
-            "showButtons": true,
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.75
-          },
-          "title": "<em>Title</em> with Text and Buttons",
-          "subtitle": "Subtitle",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quis quidem laboriosam, enim rem nobis ab laudantium. Aliquam, ipsum, impedit accusantium ex cum facilis ut tempora vero nesciunt mollitia ullam, quisquam quia cupiditate esse repudiandae. Vero nisi velit sint minima et adipisci culpa iusto ea obcaecati! Voluptatibus consectetur nulla, asperiores.",
-          "buttons": " <a data-app-btn=\"true\" href=\"https://www.kryptoprime.com\" class=\"btn btn-black\" role=\"button\" target=\"_blank\"><span class=\"icon54-v1-double-click2 mbr-iconfont mbr-iconfont-btn\"></span>Lets Get Started</a>",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "title3",
-          "_anchor": "title3-35"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "showTitle": true,
-            "showSeparator": true,
-            "showSubtitle": false,
-            "showText": false,
-            "showButtons": false,
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.75
-          },
-          "title": "<em>Kryptoprime</em> Merits",
-          "subtitle": "Subtitle",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quis quidem laboriosam, enim rem nobis ab laudantium. Aliquam, ipsum, impedit accusantium ex cum facilis ut tempora vero nesciunt mollitia ullam, quisquam quia cupiditate esse repudiandae. Vero nisi velit sint minima et adipisci culpa iusto ea obcaecati! Voluptatibus consectetur nulla, asperiores.",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-black\" role=\"button\">learn more</a>",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "title4",
-          "_anchor": "title4-36"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showSubtitle": false,
-            "showText": true,
-            "columns": 6,
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.75
-          },
-          "title": "Steps to success",
-          "text": "Donec non augue eros. Praesent quis nunc metus. Duis vehicula nisl diam, in varius nibh consectetur eget. Sed quis magna id libero very molestie posuere. Mauris ac ligula eget quam",
-          "title1": "Ultimate Security",
-          "title2": "Compliance",
-          "title3": "Privacy",
-          "title4": "Satisfaction",
-          "title5": "Prevention",
-          "title6": "Assurance",
-          "subtitle1": "Subtitle1",
-          "subtitle2": "Subtitle2",
-          "subtitle3": "Subtitle3",
-          "subtitle4": "Subtitle4",
-          "subtitle5": "Subtitle5",
-          "subtitle6": "Subtitle6",
-          "text1": "Encrypt and manage access to all of your data, wherever it lives in the cloud, inside and outside of your organization.<br>",
-          "text2": "By using Kryptoprime you instantly compliant with new privacy regulations and standards.<br>",
-          "text3": "Protecting your rights and freedoms should be no longer difficult.<br>",
-          "text4": "Let your correlate use whatever cloud storage and email service they want to share files and communicate with you.<br>",
-          "text5": "Employees can store company information securely even in their private cloud storage services. Empower employees to secure the company data rather than rely on people following your organisation guidelines of the time.<br>",
-          "text6": "Guarantee your correlation a true confidentiality of their data, even if it’s stolen unless you’re forced legally to provide it to an authorities.<br>",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content6",
-          "_anchor": "content6-37"
-        },
-        {
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "showTitle": false,
-            "showSeparator": false,
-            "showSubtitle": false,
-            "showText": false,
-            "showButtons": true,
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.75
-          },
-          "title": "<em>Title</em> with Text and Buttons",
-          "subtitle": "Subtitle",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quis quidem laboriosam, enim rem nobis ab laudantium. Aliquam, ipsum, impedit accusantium ex cum facilis ut tempora vero nesciunt mollitia ullam, quisquam quia cupiditate esse repudiandae. Vero nisi velit sint minima et adipisci culpa iusto ea obcaecati! Voluptatibus consectetur nulla, asperiores.",
-          "buttons": "<a data-app-btn=\"true\" href=\"https://www.kryptoprime.com\" class=\"btn btn-black\" role=\"button\" target=\"_blank\"><span class=\"icon54-v1-double-click2 mbr-iconfont mbr-iconfont-btn\"></span>Lets get started</a>",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "title3",
-          "_anchor": "title3-38"
         },
         {
           "_params": {
@@ -4483,6 +3948,31 @@
           ],
           "_name": "footer2",
           "_anchor": "footer2-39"
+        },
+        {
+          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "postToLoad": "6",
+            "facebook": "linkedin",
+            "twitter": "",
+            "google": "",
+            "youtube": "",
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
+            "overlay": true,
+            "overlayColor": "#7e9b9f",
+            "overlayOpacity": 0.6
+          },
+          "alias": "social-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "feed",
+          "_anchor": "feed-3q"
         }
       ]
     }

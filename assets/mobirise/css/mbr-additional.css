@@ -1154,15 +1154,6 @@ a:hover,
   color: #222!important;
 }
 
-#header3-30 DIV {
-  font-size: 100px;
-}
-#header3-30 H1 {
-  font-size: 72px;
-}
-#content2-32 H4 {
-  text-align: left;
-}
 #menu2-33 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1238,7 +1229,4 @@ a:hover,
 }
 #menu2-33 .dropdown-item[aria-expanded="true"] {
   color: #222!important;
-}
-#content2-34 H4 {
-  text-align: left;
 }
